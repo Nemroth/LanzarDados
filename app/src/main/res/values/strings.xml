@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lanzar Dados</string>
+    <string name="btn_lanzar_text">LANZAR</string>
+    <string name="resultado_text">RESULTADO</string>
+
+</resources>
